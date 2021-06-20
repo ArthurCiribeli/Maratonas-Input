@@ -1,0 +1,136 @@
+@import url(../css/reset.css);
+
+.search{
+    width: 343px;
+    height: 36px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.search img{
+    padding-left: 8px;
+    padding-right: 10px;
+}
+.search input{
+    background: transparent;
+    border: 0px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 22px;
+    color: #8E8E93;
+    outline: none;
+}
+.send-menssage{
+    Width: 342px;
+    Height: 36px;
+    display: flex;
+    align-items: center;
+    margin-top: 63px;
+}
+.send-menssage :nth-child(6){
+    padding-left: 16px;
+}
+.send-menssage__input{
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 18px;
+    Width: 135px;
+    Height: 36px;
+    display: flex;
+    align-items: center;
+}
+.send-menssage__input input{
+    width: 21px;
+    height: 21px;
+    background: transparent;
+    border: 0px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 22px;
+    color: #8E8E93;
+    outline: none;
+    padding-left: 15px;
+}
+.send-menssage__image{
+    padding-right: 20px;
+}
+.input-image{ 
+    padding-left: 69px;
+    padding-right: 6px;
+}
+.menssage{
+    Width: 344,5px;
+    Height: 36px;
+    display: flex;
+    align-items: center;
+    margin-top: 63px;
+}
+.menssage :nth-child(3){
+    padding-left: 23px;
+}
+.menssage__input{
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 18px;
+    Width: 285px;
+    Height: 36px;
+    display: flex;
+    align-items: center;
+}
+.menssage__input input{
+    height: 21px;
+    background: transparent;
+    border: 0px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 22px;
+    color: #8E8E93;
+    outline: none;
+}
+.menssage__image{
+    width: 8.5px;
+    height: 15.5px;
+    padding-right: 11px;
+}
+.menssage__input--image{
+    padding-left: 25px;
+}
+.to-menssage{
+    Width: 375px;
+    Height: 44px;
+    background: #F9F8F9;
+    margin-top: 63px;
+    display: flex;
+    align-items: center;
+}
+.to-menssage p{
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.4);
+    padding-left: 15px;
+}
+.to-menssage input{
+    height: 21px;
+    background: transparent;
+    border: 0px;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #8E8E93;
+    outline: none;
+    padding-left: 15px;
+}
+.barra-preta{
+    Width: 2px;
+    Height: 20px;
+    background: #000000;
+    border-radius: 1px;
+    margin-left: 4.5px;
+}
+.barra-azul{
+    Width: 2px;
+    Height: 20px;
+    background: #0584FE;
+    border-radius: 1px;
+    margin-left: 12px;
+}
